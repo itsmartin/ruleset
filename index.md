@@ -79,5 +79,5 @@ The tournament organizers and their appointed staff reserve the right to resolve
 <dl>
 <dt>[1]</dt><dd>An <strong>objective</strong> is defined as: a block, item or entity which is required to be placed on the victory monument in order to win the match.</dd>
 <dt>[2]</dt><dd>A player is considered to have <strong>entered his or her lane</strong> as soon as they are no longer supported by any block which forms part of the starting platform or trough.</dd>
-<dt>[3]</dt><dd>An <strong>unbreakable block</strong> is defined as: any block which could not be broken by punching it in survival gamemode.</dd>
+<dt>[3]</dt><dd>An <strong>unbreakable block</strong> is defined as: any solid block which could not be broken by punching it in survival gamemode.</dd>
 </dl>
