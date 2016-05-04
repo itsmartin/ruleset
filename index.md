@@ -37,6 +37,8 @@ No player shall, during any official match they participate in, be permitted to:
     2. communications over designated channels of a voice chat server approved by a referee for use in that match, or
     3. direct verbal and/or gestural communications made by any of their teammates connecting to the match from the same immediate physical area.
 
+[1] An unbreakable block is defined as any solid block which cannot be broken by punching it in survival gamemode. This includes bedrock, end-portal frames, and barrier blocks.
+
 # Section III: General Constraints
 
 1. Any team scheduled to compete in any tournament match that is not present on the official tournament Minecraft and voice chat servers and ready to begin playing at that match’s scheduled starting time may, at the discretion of the referees in attendance, be considered to have forfeited that match.
