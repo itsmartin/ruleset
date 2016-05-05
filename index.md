@@ -15,9 +15,9 @@ No player shall, during any official match they participate in, be permitted to:
 1. Teleport into or out of an area, access to which is restricted (from where the player is teleporting from) by _unbreakable blocks_<sup>__[1]__</sup>, using either:
     1. an enderpearl that travels through the void lane, or
     2. a bed or ridable entity, (except when the destination is in the player’s direct line of sight, unobstructed by the void lane or a barrier block).
-2. Pick up an item entity (directly into the inventory of either the player or a hopper minecart) across an _unbreakable block_<sup>__[1]__</sup>.
-3. Cause any part of any entity to occupy the same location as any _unbreakable block_<sup>__[1]__</sup>.
-4. Cause any _unbreakable block_<sup>__[1]__</sup> or air block in the void lane to be removed or replaced with any other block.
+2. Pick up an item entity (directly into the inventory of either the player or a hopper minecart) across an _unbreakable block_.
+3. Cause any part of any entity to occupy the same location as any _unbreakable block_.
+4. Cause any _unbreakable block_ or air block in the void lane to be removed or replaced with any other block.
 5. Leave their lane (clientside or serverside) and perform any action other than killing their character in the void.
 6. Destroy any inventory in the opposing team's lane that contained any of that map's objectives at the beginning of the match. This is otherwise permissible only if:
     1. this inventory had previously been broken by some other means, or
