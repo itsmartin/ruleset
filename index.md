@@ -12,7 +12,7 @@ version: 3.0
 
 No player shall, during any official match they participate in, be permitted to:
 
-1. Teleport into or out of an area, access to which is restricted (from where the player is teleporting from) by _unbreakable blocks_<sup>__[1]__</sup>, using either:
+1. Teleport into or out of an area, access to which is restricted (from where the player is teleporting from) by _unbreakable blocks_<sup>__[[1]](#section-v-definitions)__</sup>, using either:
     1. an enderpearl that travels through the void lane, or
     2. a bed or ridable entity, (except when the destination is in the player’s direct line of sight, unobstructed by the void lane or a barrier block).
 2. Pick up an item entity (directly into the inventory of either the player or a hopper minecart) across an unbreakable block.
