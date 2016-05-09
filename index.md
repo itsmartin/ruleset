@@ -15,9 +15,9 @@ No player shall, during any official match they participate in, be permitted to:
 1. Teleport into or out of an area, access to which is restricted (from where the player is teleporting from) by _unbreakable blocks_<sup>__[1]__</sup>, using either:
     1. an enderpearl that travels through the void lane, or
     2. a bed or ridable entity, (except when the destination is in the player’s direct line of sight, unobstructed by the void lane or a barrier block).
-2. Pick up an item entity (directly into the inventory of either the player or a hopper minecart) across an _unbreakable block_.
-3. Cause any part of any entity to occupy the same location as any _unbreakable block_.
-4. Cause any _unbreakable block_ or air block in the void lane to be removed or replaced with any other block.
+2. Pick up an item entity (directly into the inventory of either the player or a hopper minecart) across an unbreakable block.
+3. Cause any part of any entity to occupy the same location as any unbreakable block.
+4. Cause any unbreakable block or air block in the void lane to be removed or replaced with any other block.
 5. Leave their lane (clientside or serverside) and perform any action other than killing their character in the void.
 6. Destroy any inventory in the opposing team's lane that contained any of that map's objectives at the beginning of the match. This is otherwise permissible only if:
     1. this inventory had previously been broken by some other means, or
@@ -37,8 +37,6 @@ No player shall, during any official match they participate in, be permitted to:
     2. communications over designated channels of a voice chat server approved by a referee for use in that match, or
     3. direct verbal and/or gestural communications made by any of their teammates connecting to the match from the same immediate physical area.
 
-__[1]__ _An unbreakable block is defined as any solid block which cannot be broken by punching it in survival gamemode. This includes bedrock, end-portal frames, and barrier blocks._
-
 # Section III: General Constraints
 
 1. Any team scheduled to compete in any tournament match that is not present on the official tournament Minecraft and voice chat servers and ready to begin playing at that match’s scheduled starting time may, at the discretion of the referees in attendance, be considered to have forfeited that match.
@@ -52,3 +50,7 @@ If a referee feels that they can reasonably conclude that any rule was violated 
 1. In the case of particularly minor rule violations, a referee may choose to instead only warn the offending team, and take any actions that they feel are appropriate to counteract the effect of those rules being broken.
 2. In the case of particularly severe rule violations, a tournament organizer may choose to also disqualify any player(s) and/or their teammates who broke and/or conspired to break any of these rules from competing in future competitions.
 3. The organizers reserve the right to resolve any tournament-related disputes not covered by these rules in any manner they see fit, including overriding decisions made by AutoReferee if the plugin malfunctions.
+
+# Section V: Definitions
+
+__[1]__ _An unbreakable block is defined as any solid block which cannot be broken by punching it in survival gamemode. This includes bedrock, end-portal frames, and barrier blocks._
