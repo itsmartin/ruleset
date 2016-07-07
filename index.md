@@ -4,7 +4,7 @@ version: 3.0
 
 # Section I: Usage notes
 
-1. This document is provided by [Reddit Minecraft Tournaments (RMCT)](http://rmct.tv/) for use in events that include Minecraft game-types such as Race For Wool. Anyone is welcome to use it. We just ask that any public posting of this document is attributed to RMCT.
+1. This document is provided by Reddit Minecraft Tournaments (RMCT) for use in events that include Minecraft game-types such as Race For Wool. Anyone is welcome to use it. We just ask that any public posting of this document is attributed to RMCT.
 2. This ruleset is designed for use in Minecraft 1.8.x with the [AutoReferee](http://rmct.github.io/AutoReferee/) plugin.
 3. The following rules are intended to serve as a comprehensive replacement for the rules provided by any tournament map. Any map-specific rules used for matches of this tournament must be specifically sanctioned by the organisers of the tournament.
 
