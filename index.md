@@ -25,7 +25,7 @@ No player shall, during any official match they participate in, be permitted to:
 7. Dye any sheep or block of wool on any map where colored wool is an objective.
 8. Take any block or item from the starting platform.
 9. Logout/login as a means to gain any advantage, including avoiding PvP or other hazards. Logging out and in to address lag or fix chunk errors is permissible.
-10. Use any external tool to gain an advantage over other players, or use a Minecraft client that has been modified in any way, apart from having one or more of the following mods installed:
+10. Use any external tool that modifies gameplay to gain an advantage over other players, or use a Minecraft client that has been modified in any way, apart from having one or more of the following mods installed:
     1. [Optifine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-a4-fps-boost-hd-textures-aa-af-and)
     2. [Forge](http://files.minecraftforge.net/)
     3. [Replay Mod](https://www.replaymod.com/)
