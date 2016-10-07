@@ -58,8 +58,8 @@ If a referee feels that they can reasonably conclude that any rule was violated 
 
 # Section VI: Definitions
 
-__[1]__ _An unbreakable block is defined as any solid block which cannot be broken by punching it in survival gamemode. This includes bedrock, end-portal frames, and barrier blocks._
+__[1]__ An _unbreakable block_ is defined as any solid block which cannot be broken by punching it in survival gamemode. This includes bedrock, end-portal frames, and barrier blocks.
 
-__[2]__ _An objective is a block, item or entity which is required to be capped in order to win the match._
+__[2]__ An _objective_ is a block, item or entity which is required to be capped in order to win the match.
 
-__[3]__ _An objective is capped if it is positioned in its victory region (defined by AutoReferee)._
+__[3]__ An objective is _capped_ if it is positioned in its victory region (defined by AutoReferee).
