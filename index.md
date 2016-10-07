@@ -6,7 +6,7 @@ version: 3.1.1
 
 1. This document is provided by Reddit Minecraft Tournaments (RMCT) for use in events that include Minecraft game-types such as Race For Wool. Anyone is welcome to use it. We just ask that any public posting of this document is attributed to RMCT.
 2. This ruleset is designed for use in Minecraft 1.8.x with the [AutoReferee](http://rmct.github.io/AutoReferee/) plugin. An explanation of what the plugin does in a match can be found [here](https://docs.google.com/document/d/1p1WIBTpJSCn-jhqm1mOhF2ujn0gSDwb0XselMh8W8Ws/pub).
-3. The following rules are intended to serve as a comprehensive replacement for the rules provided by any tournament map. Any map-specific rules used for matches of this tournament must be specifically sanctioned by the organisers of the tournament.
+3. The following rules are intended to serve as a comprehensive replacement for the rules provided by any tournament map. Any map-specific rules used for matches of this tournament must be specifically sanctioned by the organizers of the tournament.
 
 # Section II: Match Rules
 
@@ -37,7 +37,7 @@ No player shall, during any official match they participate in, be permitted to:
     2. communications over designated channels of a voice chat server approved by a referee for use in that match, or
     3. direct verbal and/or gestural communications made by any of their teammates connecting to the match from the same immediate physical area.
 
-# Section III: Tiebreaking
+# Section III: Tie-breaking
 
 1. If all teams have the same number of _capped_<sup>__[[3]](#section-vi-definitions)__</sup> objectives after 100 minutes, victory is awarded to the team that had the highest number of simultaneous capped objectives at any time during the match.
 2. If the highest number of simultaneous capped objectives is the same for all teams, victory is awarded to first team to cap that number of objectives during that match.
