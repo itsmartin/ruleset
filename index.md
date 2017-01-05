@@ -29,7 +29,7 @@ No player shall, during any official match they participate in, be permitted to:
     1. [Optifine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-a4-fps-boost-hd-textures-aa-af-and)
     2. [bspkrs Core, ArmorStatus HUD, StatusEffectHUD](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud)
     3. [Labymod (v2.6 and above)](https://www.labymod.net/)
-    4. [Toggle Sprint/Sneak (Labymod version)](https://www.labymod.net/downloads)
+    4. [Toggle Sneak/Sprint (Labymod version)](https://www.labymod.net/cmods)
     5. [Forge](http://files.minecraftforge.net/)
     6. [Replay Mod](https://www.replaymod.com/)
 11. Use any resource pack that:
