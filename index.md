@@ -27,7 +27,7 @@ No player shall, during any official match they participate in, be permitted to:
 9. Logout/login as a means to gain any advantage, including avoiding PvP or other hazards. Logging out and in to address lag or fix chunk errors is permissible.
 10. Use any external tool that modifies gameplay to gain an advantage over other players, or use a Minecraft client that has been modified in any way, apart from having one or more of the following mods installed:
     1. [Optifine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-a4-fps-boost-hd-textures-aa-af-and)
-    2. [bspkrs Core, ArmorStatus HUD, StatusEffectHUD](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud)
+    2. [bspkrs Core, ArmorStatus HUD, DirectionHUD, StatusEffectHUD](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282347-bspkrs-mods-armorstatushud-directionhud)
     3. [Labymod (v2.6 and above)](https://www.labymod.net/)
     4. [Toggle Sneak/Sprint (Labymod version)](https://www.labymod.net/cmods)
     5. [Forge](http://files.minecraftforge.net/)
